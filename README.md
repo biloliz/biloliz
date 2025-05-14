@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on groundbreaking projects that blend innovation with practicality.
 - 📫 How to reach me? Send a signal through the ether, and I shall appear: lizadaroneline06@gmail.com.
 - 😄 Pronouns: Ctrl, Shift, and Code. (eme lang: she nalang pwede ring shet)
-- ⚡ Fun fact: I once debugged a program using interpretive dance. Turns out, the Macarena is great for memory leaks! (wala na akong maisip na joke)
+- ⚡ Fun fact: Ayoko na mag-aral! (wala na akong maisip na joke)
 
 <!---
 biloliz/biloliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
